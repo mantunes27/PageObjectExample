@@ -1,0 +1,14 @@
+c:\users\mantunes\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\Debug\AmazonSearch.dll.config
+c:\users\mantunes\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\Debug\AmazonSearch.dll
+c:\users\mantunes\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\Debug\AmazonSearch.pdb
+c:\users\mantunes\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\mantunes\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\Debug\nunit.framework.dll
+c:\users\mantunes\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\mantunes\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\Debug\WebDriver.dll
+c:\users\mantunes\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\Debug\WebDriver.Support.dll
+c:\users\mantunes\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\Debug\nunit.framework.xml
+c:\users\mantunes\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\Debug\WebDriver.xml
+c:\users\mantunes\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\bin\Debug\WebDriver.Support.xml
+c:\users\mantunes\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\obj\Debug\AmazonSearch.csprojResolveAssemblyReference.cache
+c:\users\mantunes\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\obj\Debug\AmazonSearch.dll
+c:\users\mantunes\documents\visual studio 2015\Projects\AmazonSearch\AmazonSearch\obj\Debug\AmazonSearch.pdb
